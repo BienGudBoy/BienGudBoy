@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Biên :wave:</h1>
 <div align="center">
   <p>
-    <a href="https://t.me/BienAtTelegram"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
-    <a href="https://fb.me/BienAtFacebook"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
-    <a href="https://forum.xda-developers.com/m/BienAtXDA.12011795/"><img src="https://img.shields.io/badge/XDA-%231DA1F2.svg?&style=for-the-badge&logo=xdadevelopers&logoColor=white" height=25></a>
+    <a href="https://bit.ly/BienAtTelegram"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+    <a href="https://bit.ly/BienAtFacebook"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+    <a href="https://bit.ly/BienAtXDA"><img src="https://img.shields.io/badge/XDA-%231DA1F2.svg?&style=for-the-badge&logo=xdadevelopers&logoColor=white" height=25></a>
   </p>
   <p>
     <a href="https://www.buymeacoffee.com/TO-BE-DONE-NO-ETA" target="_blank" rel="noreferrer nofollow">
