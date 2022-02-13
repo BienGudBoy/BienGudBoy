@@ -24,8 +24,8 @@
  
  <h2>My projects:</h2>
    <ul>
-     <p><li><a href="https://whoogle-crap.herokuapp.com">Whoogle</a> (hosting only)</li></p>
-     <p><li><a href="https://libreddit-crap.herokuapp.com">Libreddit</a> (hosting only)</li></p>
+     <p><li><a href="https://bit.ly/BienAtWhoogle">Whoogle</a> (hosting only)</li></p>
+     <p><li><a href="https://bit.ly/BienAtLibreddit">Libreddit</a> (hosting only)</li></p>
    </ul>
  
 <h2>GitHub Stats</h2>
