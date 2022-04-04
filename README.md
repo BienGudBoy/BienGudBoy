@@ -17,7 +17,6 @@
     <p><b><li>Finish my last semester at school</li></b></p>
     <p><b><li>Attend a university</li></b></p>
     <p><li>Start developing for the Samsung Galaxy A72</li></p>
-    <p><li>Ditch Facebook from my life (quite hard, but not impossible - <a href="https://tosdr.org/en/service/182">Why?</a>)</li></p>
     <p><li>Have a nice girl to make love with (probably can never be done)</li></p>
     <p><li>Finish this README</li></p>
   </ul>
