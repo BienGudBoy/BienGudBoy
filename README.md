@@ -14,7 +14,6 @@
 
 <h2>My goal in 2022:</h2>
   <ul>
-    <p><b><li>Finish my last semester at school</li></b></p>
     <p><b><li>Attend a university</li></b></p>
     <p><li>Start developing for the Samsung Galaxy A72</li></p>
     <p><li>Have a nice girl to make love with (probably can never be done)</li></p>
